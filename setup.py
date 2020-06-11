@@ -11,7 +11,7 @@ setuptools.setup(
     description="Package to calculate a weighted average grade from a Studentweb HTML",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/navjordj/Studentweb-Average-Grade",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

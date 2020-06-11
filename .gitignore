@@ -1,4 +1,8 @@
 .mypy_cache/*
 res/*
+build/*
+dist/*
+
+*.egg-info
 *.pyc
 res.html
