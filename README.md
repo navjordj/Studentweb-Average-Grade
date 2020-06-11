@@ -1,4 +1,5 @@
 # Studentweb Average Grade Calculator
+Uses BeautifulSoup to scrape Studentweb results page to output the weighted grade average
 
 ## Installation
 `pip install git+https://github.com/navjordj/Studentweb-Average-Grade`
