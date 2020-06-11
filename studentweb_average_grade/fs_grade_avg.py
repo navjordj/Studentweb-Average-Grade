@@ -1,7 +1,7 @@
 from typing import List, Union
 from pathlib import Path
 
-from bs4 import BeautifulSoup # type: ignore
+from bs4 import BeautifulSoup
 
 class AverageGrade:
     """
